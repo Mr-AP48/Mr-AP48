@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Amey Pathak
-- 👀 I’m interested in ...
+- 👀 I’m interested in codings and youtube.
 - 🌱 I’m currently learning HTML , JS. CSS
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by YouTube or Discord or FaceBook.
 - 🔗 My all links: YouTube: https://www.youtube.com/channel/UCZ9v-a3NmbTJ-Y1tIXxQTHQ ; Discord: Mr AP#9624 ; FaceBook: Amey Pathak
