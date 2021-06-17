@@ -2,4 +2,4 @@
 - 👀 I’m interested in codings and youtube.
 - 🌱 I’m currently learning HTML , JS. CSS
 - 📫 You can reach me by YouTube or Discord or FaceBook.
-- 🔗 My all links: YouTube: https://www.youtube.com/channel/UCZ9v-a3NmbTJ-Y1tIXxQTHQ ; Discord: Mr AP#9624 ; FaceBook: Amey Pathak
+- 🔗 My all links: YouTube: https://www.youtube.com/channel/UCZ9v-a3NmbTJ-Y1tIXxQTHQ ; Discord: Famler#9624 ; FaceBook: Amey Pathak
